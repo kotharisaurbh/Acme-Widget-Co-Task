@@ -6,10 +6,10 @@
 3. Run the PHP script to check the basket calculations.
 
 # Example Basket Scenarios:
-B01, G01 => $37.85
-R01, R01 => $54.37 (with half-price offer on the second R01)
-R01, G01 => $60.85
-B01, B01, R01, R01, R01 => $98.27 (with the delivery and offer applied)
+1. B01, G01 => $37.85
+2. R01, R01 => $54.37 (with half-price offer on the second R01)
+3. R01, G01 => $60.85
+4. B01, B01, R01, R01, R01 => $98.27 (with the delivery and offer applied)
 
 # Key Considerations:
 1. Product Catalogue: Associative array storing products and their prices.
