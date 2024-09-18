@@ -3,7 +3,7 @@
 # How to Run:
 1. Clone the code from the repository.
 2. Set up the local environment with PHP.
-3. 3. Run the PHP script to check the basket calculations.
+3. Run the PHP script to check the basket calculations.
 
 # Example Basket Scenarios:
 B01, G01 => $37.85
